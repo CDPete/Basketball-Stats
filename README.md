@@ -7,7 +7,7 @@ Data Science Project based around predicting MVP
 
 | | Skills |
 |:---: | --- |
-| Webscraping | BeatifulSoup4 |
+| Webscraping | BeatifulSoup4, Selenium |
 | Database | PostgreSQL |
 | Visualization | Matplotlib, Seaborn |
 | Data Analysis | Pandas, Numpy, Sklearn |
